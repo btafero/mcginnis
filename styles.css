@@ -1,0 +1,29 @@
+#container {
+  display: flex;
+}
+
+#border {
+  background-color: white;
+  padding: 40px 30px 30px 30px; /* Adjust the top padding value as needed */
+  border: 1px solid #ccc;
+}
+
+
+#coordinate-plane {
+  background-color: white;
+}
+
+text {
+  user-select: none;
+}
+
+#coordinates {
+  padding-left: 20px;
+  font-size: 20px;
+}
+
+#coordinate-pair {
+  margin-top: 10px;
+  font-size: 40px; /* Adjust this value to your preference */
+}
+
